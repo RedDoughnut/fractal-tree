@@ -22,3 +22,7 @@ On the top of `main()` function there are 2 constants you can change:
 - `COLOR` - color of the Mandelbrot set
 
 ![Mandelbrot set](https://github.com/RedDoughnut/fractals/blob/main/MandelbrotSet.png)
+
+# Koch snowflake
+Drawing [Koch snowflake](https://en.wikipedia.org/wiki/Koch_snowflake) in pygame
+You can change `DELAY` (in seconds) which is the time delay between steps of Koch snowflake
