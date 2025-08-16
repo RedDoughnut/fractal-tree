@@ -1,4 +1,7 @@
-# fractal-tree
+# fractals
+Multiple python pygame programs for drawing different fractals
+
+# Fractal tree
 Program for drawing [fractal trees](https://en.wikipedia.org/wiki/Fractal_canopy) in Pygame
 
 # Configuration
