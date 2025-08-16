@@ -28,4 +28,4 @@ Drawing [Koch snowflake](https://en.wikipedia.org/wiki/Koch_snowflake) in pygame
 
 You can change `DELAY` (in seconds) which is the time delay between steps of Koch snowflake
 
-![Koch Snowflake](https://raw.githubusercontent.com/RedDoughnut/fractals/refs/heads/main/KochSnowflake.png)
+![Koch Snowflake](https://raw.githubusercontent.com/RedDoughnut/fractals/refs/heads/main/Koch_Snowflake.png)
